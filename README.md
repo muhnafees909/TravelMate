@@ -26,10 +26,10 @@ TravelMate allows users to plan a travel itinerary without having to worry about
 
 ## Tech Stack
 - MERN
--- MondoDB
--- Express
--- React
--- Node
+    - MondoDB
+    - Express
+    - React
+    - Node
 
 ## Run Application
 
